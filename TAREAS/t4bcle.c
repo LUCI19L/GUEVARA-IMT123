@@ -21,6 +21,7 @@ int main() {
         }
     }
     printf("La cantidad de digitos es: %d\n", contador);
+    // para subir bien
     return 0;
 
 }
