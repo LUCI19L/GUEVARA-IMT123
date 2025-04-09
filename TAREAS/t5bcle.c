@@ -23,7 +23,7 @@ int main() {
         printf("%c", palabra[i]);
     }
     printf("\n");
-
+// para subir bien
     return 0;
     // para subir bien
 }
