@@ -25,5 +25,5 @@ int main() {
     printf("\n");
 // para subir bien
     return 0;
-    // para subir bien
+
 }
