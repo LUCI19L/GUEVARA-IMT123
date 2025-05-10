@@ -11,6 +11,7 @@ int main() {
         suma +=i;
     }
     printf("La suma de los primeros %d números naturales es: %d\n", N, suma);
-// para subir bien
+// para subir bien lolo
+
     return 0;
 }
